@@ -67,4 +67,4 @@ Güvenlik otomasyonunun temellerini ve SOC analistlerinin Threat Hunter (Tehdit 
 * **Format:** Markdown & Mimari Şemalar
 
 ---
-*Created by **Bilgehan Bayrak** - Computer Engineering Student & Cyber Security Enthusiast.*
+*Created by **Bilgehan Bayrak** - Computer Engineering Student & Cyber Security Researcher.*
