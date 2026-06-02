@@ -9,7 +9,6 @@
 **Environment**: Hybrid Cloud (On-Premise + AWS) generating an average of 3 terabytes of log data daily. Security stack includes leading EDR, WAF, IPS/IDS, and enterprise Firewalls.
 
 ---
-
 ## The Challenge
 
 Despite millions of dollars invested in advanced security tools, the organization's Security Operations Center (SOC) was in a state of sheer crisis. The problem wasn't that the tools were blind, but that **they saw too much**.
