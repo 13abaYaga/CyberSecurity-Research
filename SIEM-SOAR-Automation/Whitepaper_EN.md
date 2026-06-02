@@ -40,7 +40,6 @@ graph TD
     class E warning;
 ```
 
-![Figure 1: The Alert Fatigue Cycle in a Traditional SOC](./images/SIEM-SOAR_04_Alert_Fatigue_Cycle.png)
 
 ### The Cost of Inaction
 
@@ -84,7 +83,7 @@ SOAR rests on 3 main pillars:
 | **Output** | Alert and Dashboard | Resolved Incident, Enriched Data, Action (e.g., IP Blocking) |
 | **Human Dependency** | High human effort required to interpret alarms and take action. | Operates at machine speed, relies on human authority only for critical decisions (Approval). |
 
-![Figure 2: Architectural Comparison: SIEM vs SOAR Workflows](./images/SIEM-SOAR_05_SIEM_SOAR_Architecture.png)
+![Figure 1: Architectural Comparison: SIEM vs SOAR Workflows](./images/SIEM-SOAR_04_SIEM_SOAR_Architecture.png)
 
 ---
 
@@ -172,8 +171,6 @@ graph TD
     class H,I terminal;
     class D process;
 ```
-
-![Figure 3: A standard SOAR Playbook for Phishing / Malicious IP Blocking Workflow](./images/SIEM-SOAR_06_SOAR_Playbook_Workflow.png)
 
 **Result**: A tedious, manual, 20-minute process prone to human error is completed in **5 seconds** with 100% accuracy, without human touch.
 
