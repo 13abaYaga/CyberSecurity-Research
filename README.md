@@ -35,7 +35,7 @@ For each topic, the research is meticulously structured into three distinct form
 * **Offensive Concepts:** EternalBlue (SMBv1), DGA, In-Memory Injection, Living off the Land (LotL)
 
 ### 🔗 Connect
-*Created by **Bilgehan Bayrak** - Cyber Security Researcher.*  
+*Created by **Bilgehan Bayrak** - Computer Engineering Student & Cyber Security Researcher.*  
 * 🐙 **GitHub:** [@13abaYaga](https://github.com/13abaYaga)
 * 🌐 **Website:** [bilgehanbayrak.com.tr](https://bilgehanbayrak.com.tr)
 * 💼 **LinkedIn:** [Bilgehan Bayrak](https://linkedin.com/in/bilgehan-bayrak)
@@ -74,8 +74,11 @@ Her konu, farklı okuyucu kitlelerine hitap etmesi amacıyla üç farklı format
 * **Tersine Mühendislik:** IDA Pro, x64dbg, Ghidra, Any.run Sandbox
 * **Saldırı Konseptleri:** EternalBlue (SMBv1), DGA, Bellek İçi Enjeksiyon (In-Memory Injection), Living off the Land (LotL)
 
-### 🔗 Bağlantılar
-*Hazırlayan: **Bilgehan Bayrak** - Siber Güvenlik Araştırmacısı.*  
+### 🔗 Bağlantılar 
 * 🐙 **GitHub:** [@13abaYaga](https://github.com/13abaYaga)
 * 🌐 **Web:** [bilgehanbayrak.com.tr](https://bilgehanbayrak.com.tr)
 * 💼 **LinkedIn:** [Bilgehan Bayrak](https://linkedin.com/in/bilgehan-bayrak)
+
+---
+
+*Created by **Bilgehan Bayrak** - Computer Engineering Student & Cyber Security Researcher.* 
