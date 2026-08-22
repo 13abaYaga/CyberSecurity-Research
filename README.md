@@ -1,6 +1,5 @@
 # 🛡️ Cyber Security Research & Laboratory
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/13abaYaga/CyberSecurity-Research/blob/main/LICENSE)
 [![Security Researcher](https://img.shields.io/badge/Role-Security_Researcher-critical.svg)](#)
 [![SOC Automation](https://img.shields.io/badge/Focus-SOC_Automation-success.svg)](#)
 [![Reverse Engineering](https://img.shields.io/badge/Focus-Reverse_Engineering-purple.svg)](#)
