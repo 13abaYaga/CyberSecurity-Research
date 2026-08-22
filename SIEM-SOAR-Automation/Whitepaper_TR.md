@@ -40,8 +40,6 @@ graph TD
     class E warning;
 ```
 
-![Şekil 1: Geleneksel Bir SOC'ta Uyarı Yorgunluğu Döngüsü](./images/SIEM-SOAR_04_Alert_Fatigue_Cycle.png)
-
 ### Hareketsizliğin Bedeli
 
 Uyarı yorgunluğunun ve kötü yönetilen Yanlış Pozitiflerin maliyeti iki boyutludur:
@@ -84,7 +82,7 @@ SOAR 3 temel direk üzerine kurulur:
 | **Çıktı** | Uyarı ve Pano | Çözümlenen Olay, Zenginleştirilmiş Veri, Eylem (örn. IP Engelleme) |
 | **İnsan Bağımlılığı** | Alarmları yorumlamak ve harekete geçmek için yüksek insan çabası gerektirir. | Makine hızında çalışır; yalnızca kritik kararlar (Onay) için insan otoritesine güvenir. |
 
-![Şekil 2: Mimari Karşılaştırma: SIEM ve SOAR İş Akışları](./images/SIEM-SOAR_05_SIEM_SOAR_Architecture.png)
+![Şekil 2: Mimari Karşılaştırma: SIEM ve SOAR İş Akışları](./images/SIEM-SOAR_04_SIEM_SOAR_Architecture.png)
 
 ---
 
@@ -172,8 +170,6 @@ graph TD
     class H,I terminal;
     class D process;
 ```
-
-![Şekil 3: Kimlik Avı / Kötü Amaçlı IP Engelleme İş Akışı için Standart Bir SOAR Playbook'u](./images/SIEM-SOAR_06_SOAR_Playbook_Workflow.png)
 
 **Sonuç**: İnsan hatasına açık, sıkıcı ve manuel 20 dakikalık süreç, insan dokunuşu olmadan %100 doğrulukla **5 saniyede** tamamlanır.
 
