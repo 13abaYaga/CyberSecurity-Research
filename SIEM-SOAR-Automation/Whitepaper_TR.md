@@ -2,7 +2,7 @@
 
 ---
 
-## Yönetici Özeti
+## Özet
 
 Dijital dönüşümün hız kazanması ve ağ çevrelerinin bulanıklaşmasıyla birlikte, kuruluşların siber güvenlik tehdit yüzeyi eşi görülmemiş bir ölçeğe ulaşmıştır. Kurumsal ağları korumakla görevlendirilen Güvenlik Operasyonları Merkezleri (SOC'lar), her gün binlerce, hatta yüz binlerce güvenlik uyarısıyla yüz yüze gelmektedir. Geleneksel bir yapıda güvenlik analistlerinin bu uyarı selini manuel olarak incelemesi, gerçek tehditleri yanlış pozitiflerden ayırması ve saniyeler içinde tepki vermesi beklenmektedir. Ne var ki insan kapasitesinin sınırları, bu geçici savunma hattını çöküşün eşiğine getirmiştir.
 
